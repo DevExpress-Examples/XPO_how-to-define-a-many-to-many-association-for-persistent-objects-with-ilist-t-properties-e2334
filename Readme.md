@@ -1,3 +1,13 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainPage.xaml](./CS/ManyToMany/MainPage.xaml) (VB: [MainPage.xaml.vb](./VB/ManyToMany/MainPage.xaml.vb))
+* [MainPage.xaml.cs](./CS/ManyToMany/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/ManyToMany/MainPage.xaml.vb))
+* [WndUsers.xaml](./CS/ManyToMany/WndUsers.xaml) (VB: [WndUsers.xaml](./VB/ManyToMany/WndUsers.xaml))
+* [WndUsers.xaml.cs](./CS/ManyToMany/WndUsers.xaml.cs) (VB: [WndUsers.xaml](./VB/ManyToMany/WndUsers.xaml))
+* **[XpoClasses.cs](./CS/ManyToMany/XpoClasses.cs) (VB: [XpoClasses.vb](./VB/ManyToMany/XpoClasses.vb))**
+* [XpoHelper.cs](./CS/ManyToMany/XpoHelper.cs) (VB: [XpoHelper.vb](./VB/ManyToMany/XpoHelper.vb))
+<!-- default file list end -->
 # How to define a many-to-many association for persistent objects with IList<T> properties
 
 
