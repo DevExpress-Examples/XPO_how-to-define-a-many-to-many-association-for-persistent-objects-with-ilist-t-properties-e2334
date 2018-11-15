@@ -1,3 +1,13 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainPage.xaml](./CS/ManyToMany/MainPage.xaml)
+* [MainPage.xaml.cs](./CS/ManyToMany/MainPage.xaml.cs)
+* [WndUsers.xaml](./CS/ManyToMany/WndUsers.xaml)
+* [WndUsers.xaml.cs](./CS/ManyToMany/WndUsers.xaml.cs)
+* [XpoClasses.cs](./CS/ManyToMany/XpoClasses.cs)
+* [XpoHelper.cs](./CS/ManyToMany/XpoHelper.cs)
+<!-- default file list end -->
 # How to define a many-to-many association for persistent objects with IList<T> properties
 
 
