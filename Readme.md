@@ -1,10 +1,10 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [MainPage.xaml](./CS/ManyToMany/MainPage.xaml) (VB: [MainPage.xaml.vb](./VB/ManyToMany/MainPage.xaml.vb))
+* [MainPage.xaml](./CS/ManyToMany/MainPage.xaml) (VB: [MainPage.xaml](./VB/ManyToMany/MainPage.xaml))
 * [MainPage.xaml.cs](./CS/ManyToMany/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/ManyToMany/MainPage.xaml.vb))
 * [WndUsers.xaml](./CS/ManyToMany/WndUsers.xaml) (VB: [WndUsers.xaml](./VB/ManyToMany/WndUsers.xaml))
-* [WndUsers.xaml.cs](./CS/ManyToMany/WndUsers.xaml.cs) (VB: [WndUsers.xaml](./VB/ManyToMany/WndUsers.xaml))
+* [WndUsers.xaml.cs](./CS/ManyToMany/WndUsers.xaml.cs) (VB: [WndUsers.xaml.vb](./VB/ManyToMany/WndUsers.xaml.vb))
 * **[XpoClasses.cs](./CS/ManyToMany/XpoClasses.cs) (VB: [XpoClasses.vb](./VB/ManyToMany/XpoClasses.vb))**
 * [XpoHelper.cs](./CS/ManyToMany/XpoHelper.cs) (VB: [XpoHelper.vb](./VB/ManyToMany/XpoHelper.vb))
 <!-- default file list end -->
